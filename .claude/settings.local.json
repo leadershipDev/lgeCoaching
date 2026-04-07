@@ -1,0 +1,34 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(file \"d:\\\\project\\\\CoachingLanding\\\\\\(all\\)\\\\`26년_LG전자_사외코치Pool_260325.xlsx\")",
+      "Bash(python3 -c \":*)",
+      "Bash(python -c \":*)",
+      "Bash(node -e \":*)",
+      "Bash(pip install:*)",
+      "Bash(python generate_data.py)",
+      "Bash(node -e \"const f=require\\(''fs''\\); const d=f.readFileSync\\(''data.js'',''utf-8''\\); eval\\(d.replace\\(''const '',''var ''\\)\\); console.log\\(''총'',COACHES.length,''명''\\); console.log\\(''샘플:'', JSON.stringify\\(COACHES[0]\\).substring\\(0,300\\)\\);\")",
+      "Bash(python -c \"import sys; data=sys.stdin.buffer.read\\(\\); print\\(data.decode\\(''''cp949'''', errors=''''replace''''\\)\\)\")",
+      "Bash(python -c \"import sys; print\\(sys.stdin.buffer.read\\(\\).decode\\(''''cp949'''',''''replace''''\\)\\)\")",
+      "Bash(python -c \"import sys; print\\(sys.stdin.buffer.read\\(\\).decode\\(''''utf-8'''',''''replace''''\\)\\)\")",
+      "Bash(python generate_auth.py)",
+      "Bash(gh --version)",
+      "Bash(vercel --version)",
+      "Bash(winget install:*)",
+      "Bash(npm install:*)",
+      "Bash(node -e \"const d=require\\(''''./data.js''''||''''''''\\); \")",
+      "Bash(node -e \"eval\\(require\\(''''fs''''\\).readFileSync\\(''''data.js'''',''''utf8''''\\)\\); console.log\\([...new Set\\(COACHES.map\\(c=>c.gender\\)\\)]\\)\")",
+      "Bash(node -e \"const fs=require\\(''''fs''''\\); const code=fs.readFileSync\\(''''data.js'''',''''utf8''''\\).replace\\(''''const COACHES'''',''''var COACHES''''\\); eval\\(code\\); console.log\\([...new Set\\(COACHES.map\\(c=>c.gender\\)\\)]\\)\")",
+      "Bash(node -e \"const fs=require\\(''''fs''''\\); const code=fs.readFileSync\\(''''data.js'''',''''utf8''''\\).replace\\(''''const COACHES'''',''''var COACHES''''\\); eval\\(code\\); const c=COACHES.find\\(x=>x.name===''''박기태''''\\); console.log\\(JSON.stringify\\({birthYear:c.birthYear,gender:c.gender}\\)\\)\")",
+      "Bash(node -e \"const fs=require\\(''''fs''''\\); const code=fs.readFileSync\\(''''data.js'''',''''utf8''''\\).replace\\(''''const COACHES'''',''''var COACHES''''\\); eval\\(code\\); COACHES.filter\\(c=>c.group===''''코칭경영원''''\\).slice\\(0,5\\).forEach\\(c=>console.log\\(c.name, JSON.stringify\\({by:c.birthYear,g:c.gender}\\)\\)\\)\")",
+      "Bash(pip uninstall:*)",
+      "Bash(python -c \"import subprocess, sys; r = subprocess.run\\([sys.executable, ''generate_data.py''], capture_output=True\\); print\\(r.stdout.decode\\(''cp949'', errors=''replace''\\)\\)\")",
+      "Bash(python -c \"import sys; sys.stdout.reconfigure\\(encoding=''utf-8''\\); import subprocess; r = subprocess.run\\([''python'', ''generate_data.py''], capture_output=True, encoding=''utf-8'', errors=''replace''\\); print\\(r.stdout\\); print\\(r.stderr\\)\")",
+      "Bash(python -c \"import sys; sys.stdout.reconfigure\\(encoding=''''utf-8''''\\); [print\\(l\\) for l in sys.stdin.read\\(\\).splitlines\\(\\)]\")",
+      "Bash(python:*)",
+      "Bash(node --check app.js)",
+      "Bash(OPENBLAS_NUM_THREADS=1 python _test_openpyxl.py)",
+      "Bash(OPENBLAS_NUM_THREADS=1 python generate_data.py)"
+    ]
+  }
+}

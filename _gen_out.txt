@@ -1,0 +1,9 @@
+총 92명
+  CiT: 20명
+  개별: 14명
+  코칭경영원: 44명
+  한스코칭: 14명
+
+가격 샘플 (정은실): [{'category': 'Orientation 및 Debriefing', 'sub': None, 'type': None, 'amount': None, 'note': 'HR Meeting'}, {'category': '사전/사후진단', 'sub': None, 'type': '전화인터뷰', 'amount': 70000, 'note': '코칭 대상자의 이해관계자 중 4~5명 이내 선발하여 진행 (상사 포함)'}]
+
+data.js 생성 완료: d:\project\CoachingLanding\data.js

@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>LG전자 사외코치 Pool</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- ── 로그인 오버레이 ── -->
+  <div id="login-overlay" class="overlay">
+    <div class="login-card">
+      <div class="login-logo">
+        <span class="lg-mark">LG</span>
+        <span class="login-title-text">사외코치 Pool</span>
+      </div>
+      <form id="login-form" autocomplete="off">
+        <div class="input-group">
+          <label for="login-id">아이디</label>
+          <input id="login-id" type="text" placeholder="아이디를 입력하세요" autocomplete="username">
+        </div>
+        <div class="input-group">
+          <label for="login-pwd">비밀번호</label>
+          <input id="login-pwd" type="password" placeholder="비밀번호를 입력하세요" autocomplete="current-password">
+        </div>
+        <p id="login-error" class="login-error hidden"></p>
+        <button type="submit" class="btn-primary btn-full">로그인</button>
+      </form>
+    </div>
+  </div>
+
+  <!-- ── 앱 셸 ── -->
+  <div id="app-shell" class="hidden">
+
+    <!-- 헤더 -->
+    <header id="app-header">
+      <div class="header-brand">
+        <span class="lg-mark sm">LG</span>
+        <span class="header-title">사외코치 Pool <span class="header-year">'26</span></span>
+      </div>
+
+      <!-- 탭 네비게이션 -->
+      <nav id="tab-nav" role="tablist" aria-label="코치 그룹 탭"></nav>
+
+      <div class="header-actions">
+        <span id="user-badge" class="user-badge"></span>
+        <button id="accounts-btn" class="btn-ghost hidden" title="계정 관리">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
+          계정 관리
+        </button>
+        <button id="logout-btn" class="btn-ghost">로그아웃</button>
+      </div>
+    </header>
+
+    <!-- 메인 콘텐츠 -->
+    <main id="main-content" role="main"></main>
+  </div>
+
+  <!-- ── 코치 상세 모달 ── -->
+  <div id="coach-modal" class="modal-overlay hidden" role="dialog" aria-modal="true" aria-labelledby="modal-coach-name">
+    <div class="modal-container">
+      <button class="modal-close" id="modal-close-btn" aria-label="닫기">&times;</button>
+      <div id="modal-body"></div>
+    </div>
+  </div>
+
+  <!-- ── 계정 관리 모달 (superAdmin 전용) ── -->
+  <div id="accounts-modal" class="modal-overlay hidden" role="dialog" aria-modal="true">
+    <div class="modal-container accounts-modal-container">
+      <button class="modal-close" id="accounts-modal-close" aria-label="닫기">&times;</button>
+      <div id="accounts-modal-body">
+        <h2 class="modal-section-title">계정 관리 (읽기 전용)</h2>
+        <p class="muted-text">현재 시스템에 등록된 계정 목록입니다. 계정 변경은 auth.js 파일을 수정하세요.</p>
+        <div id="accounts-table-wrap"></div>
+      </div>
+    </div>
+  </div>
+
+  <script src="data.js"></script>
+  <script src="auth.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

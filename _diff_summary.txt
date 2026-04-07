@@ -1,0 +1,54 @@
+~ [79] 한숙기
+  background: '• 한스코칭(비즈니스전문코칭펌) CEO\n• Deloitte consulting, Executive coach\n• Lee Hecht Harrison, marketing director\n• Korea Times 편집국 기자' -> '한스코칭(비즈니스전문코칭펌) CEO\nDeloitte consulting, Executive coach\nLee Hecht Harrison, marketing director\nKorea Times 편집국 기자'
+  diagnosticTools: '•Leadership Circle \n•Collective Leadership Circle\n•Hogan\n•MBTI, Birkman, Disc\n•Clifton StrengthsFinder' -> 'Leadership Circle \nCollective Leadership Circle\nHogan\nMBTI, Birkman, Disc\nClifton StrengthsFinder'
+  certDomesticOther: '•코액티브코칭 Global Faculty \n•Leadership Circle Certified Coach\n•집단상담 전문가\n•Movement therapist' -> '코액티브코칭 \nGlobal Faculty \nLeadership Circle Certified Coach\n집단상담 전문가\nMovement therapist'
+~ [80] 정형권
+  background: '• 아모레퍼시픽 그룹 CHRO, 전무 (역)\n• 아모레퍼시픽 그룹 경영진단실장 (회장 직보) \n• 아모레퍼시픽 그룹 HR 디비전장, 상무 \n• 아모레퍼시픽㈜ 국제 부문 전략팀장\n• Accenture Seoul Office 경영 전략 컨설팅 서비스 부문 이사\n• IBM Korea 컨설팅 그룹 차장' -> '아모레퍼시픽 그룹 CHRO, 전무 (역)\n아모레퍼시픽 그룹 경영진단실장 (회장 직보) \n아모레퍼시픽 그룹 HR 디비전장, 상무 \n아모레퍼시픽㈜ 국제 부문 전략팀장\nAccenture Seoul Office 경영 전략 컨설팅 서비스 부문 이사\nIBM Korea 컨설팅 그룹 차장'
+  diagnosticTools: '•Leadership Circle \n•TCI\n•MMPI' -> 'Leadership Circle \nTCI\nMMPI'
+  certDomesticOther: '•인문상담사' -> '인문상담사'
+~ [81] 이미연
+  background: '• SSG.com head of HR (인사담당 상무)\n• eBay head (IT) of People & OD\n• 한국MSD (바이오/헬스케어) USA HR Business partner &  OD manager\n• Du Pont Korea (화학) USA HR general specialist\n• 현대정보기술 (IT) HR specialist' -> 'SSG.com head of HR (인사담당 상무)\neBay head (IT) of People & OD\n한국MSD (바이오/헬스케어) USA HR Business partner &  OD manager\nDu Pont Korea (화학) USA HR general specialist\n현대정보기술 (IT) HR specialist'
+  diagnosticTools: '•Korn Ferry 360 \n•Leadership Circle\n•MBTI\n•DISC\n•BU Assessment\n•Team Development Stage Values @work' -> 'Korn Ferry 360 \nLeadership Circle\nMBTI\nDISC\nBU Assessment\nTeam Development Stage Values @work'
+  certDomesticOther: '•Co-Active Coaching \n•CPCC' -> 'Co-Active Coaching \nCPCC'
+~ [82] 안상희
+  background: '• 현) 메타비 경영연구원 교수\n• IGM 세계경영연구원 교수\n• 이랜드 그룹, 파크 본부 HRD 팀장 \n• 한국인터넷진흥원[KISA] 근무 \n• 서울 리츠칼튼 호텔 근무' -> '현) 메타비 경영연구원 교수\nIGM 세계경영연구원 교수\n이랜드 그룹, 파크 본부 HRD 팀장 \n한국인터넷진흥원[KISA] 근무 \n서울 리츠칼튼 호텔 근무'
+  diagnosticTools: '•Clifton StrengthsFinder \n•MBTI\n•DISC \n•Leadership Circle' -> 'Clifton StrengthsFinder \nMBTI\nDISC \nLeadership Circle'
+  certDomesticOther: '•Co-Active Coaching \n•CPCC' -> 'Co-Active Coaching \nCPCC'
+~ [83] 조은현
+  background: '• 삼성인력개발원 영덕연수원 수석 강사\n• 광운대학교 산업심리학과 박사 / 조직심리학 및 코칭심리\n• 광운대학교 조직심리학 강사\n• 삼육대학교 겸임교수\n• 한국코칭심리학회 총무이사 \n• NFN(경영컨설팅업) 책임연구원\n• 의료기기/Product Manager, 영업, 전략, 기획' -> '삼성인력개발원 영덕연수원 수석 강사\n광운대학교 산업심리학과 박사 / 조직심리학 및 코칭심리\n광운대학교 조직심리학 강사\n삼육대학교 겸임교수\n한국코칭심리학회 총무이사 \nNFN(경영컨설팅업) 책임연구원\n의료기기/Product Manager, 영업, 전략, 기획'
+  diagnosticTools: '•Leadership Circle \n•MSCEIT(정서지능검사)\n•RGPI(Rohen Grow Potential Inventory)\n•Birkman\n•TCI(Temperament and Character Inventory)' -> 'Leadership Circle \nMSCEIT(정서지능검사)\nRGPI(Rohen Grow Potential Inventory)\nBirkman\nTCI(Temperament and Character Inventory)'
+  certDomesticOther: '•명상지도사' -> '명상지도사'
+~ [84] 양소영
+  background: '• 웰커뮤니케이션즈 (웰컴)- 마케팅 리서치 팀\n• CJ제일제당- Brand Manager\n• THE BODY SHOP- Marketing manager\n• S-OIL TOTAL- 마케팅 팀 Marketing Specialist' -> '웰커뮤니케이션즈 (웰컴)- 마케팅 리서치 팀\nCJ제일제당- Brand Manager\nTHE BODY SHOP- Marketing manager\nS-OIL TOTAL- 마케팅 팀 Marketing Specialist'
+  diagnosticTools: '•Leadership Circle \n•Birkman\n•DISC' -> 'Leadership Circle \nBirkman\nDISC'
+  certDomesticOther: '•Co-Active Coaching \n•스포츠멘탈코칭' -> 'Co-Active Coaching \n스포츠멘탈코칭'
+~ [85] 이정희
+  background: '• 현대자동차그룹 조직문화 퍼실리테이터(FT)/전문코치 \n• 휴셋파트너스 기업교육 수석강사 \n• 해병대 리더십센터 리더십 전문강사\n• 광운대학교 산업심리학과 코칭심리전공 심리학 박사' -> '현대자동차그룹 조직문화 퍼실리테이터(FT)/전문코치 \n휴셋파트너스 기업교육 수석강사 \n해병대 리더십센터 리더십 전문강사\n광운대학교 산업심리학과 코칭심리전공 심리학 박사'
+  diagnosticTools: '•Leadership Circle \n•Clifton StrengthsFinder\n•Hogan\n•FIRO-B \n•MBTI\n•DISCplus \n•Birkman\n•에니어그램\n•EQ Assessor' -> 'Leadership Circle \nClifton StrengthsFinder\nHogan\nFIRO-B \nMBTI\nDISCplus \nBirkman\n에니어그램\nEQ Assessor'
+  certDomesticOther: '•Co-Active Coaching \n•멘탈코치\n•감정코치 1급' -> 'Co-Active Coaching \n멘탈코치\n감정코치 1급'
+~ [86] 김진영
+  background: '• 한국오라클(SW 개발 공급) 전무/Channel Sales GM\n• 플랜티넷(SW 개발 공급) 사장/CEO\n• 미니게이트(DB, 온라인정보제공) 부사장/COO\n• 윈드리버 코리아(SW 개발 공급) 부사장/CSO\n• 럭키금성그룹 기획조정실 SW개발센터 팀 매니저' -> '한국오라클(SW 개발 공급) 전무/Channel Sales GM\n플랜티넷(SW 개발 공급) 사장/CEO\n미니게이트(DB, 온라인정보제공) 부사장/COO\n윈드리버 코리아(SW 개발 공급) 부사장/CSO\n럭키금성그룹 기획조정실 SW개발센터 팀 매니저'
+  diagnosticTools: '•Clifton StrengthsFinder\n•Leadership Circle \n•Hogan, Hogan 360\n•PCSI' -> 'Clifton StrengthsFinder\nLeadership Circle \nHogan 360\nPCSI'
+  certDomesticOther: '•CPCC\n•GCSC' -> 'CPCC\nGCSC'
+~ [87] 양흥열
+  background: '• 포항스틸러스: 프로축구단 CEO\n• 포스코: 철강/열연수출팀 리더, 인사팀장, 혁신기획그룹장, 글로벌HR그룹장, 홍보실장, 노무실장(전무)\n• 포스코에너지 경영지원본부장, 전무\n• 포스코에너지 경영지원실장, 상무' -> '포항스틸러스: 프로축구단 CEO\n포스코: 철강/열연수출팀 리더, 인사팀장, 혁신기획그룹장, 글로벌HR그룹장, 홍보실장, 노무실장(전무)\n포스코에너지 경영지원본부장, 전무\n포스코에너지 경영지원실장, 상무'
+  diagnosticTools: '•Clifton StrengthsFinder\n•Leadership Circle' -> 'Clifton StrengthsFinder\nLeadership Circle'
+  certDomesticOther: '•스포츠 멘탈코칭 1급\n•임파워링코칭 FT\n•수퍼바이저코칭' -> '스포츠 멘탈코칭 1급\n임파워링코칭 FT\n수퍼바이저코칭'
+~ [88] 이문희
+  background: "• 오리온 그룹 기업문화팀 & 연수원 총괄\n• Bennigan's HRD&HRM 총괄\n• Coex Megabox Multiplex launching - 마케팅 & HR 총괄" -> "오리온 그룹 기업문화팀 & 연수원 총괄\nBennigan's HRD&HRM 총괄\nCoex Megabox Multiplex launching - 마케팅 & HR 총괄"
+  diagnosticTools: '•SuccessFinder\n•MBTI \n•Birkman\n•Leadership Circle\n•Hogan' -> 'SuccessFinder\nMBTI \nBirkman\nLeadership Circle\nHogan'
+  certDomesticOther: '•FT for [Design your Happiness] _ by Bloom Company\n•FT for [Multipliers] _ by Wiseman Group' -> 'FT for [Design your Happiness]\nFT for [Multipliers]'
+~ [89] 김현주
+  background: '• LG Display HRD 임원 (임원육성체계 수립)\n• CJ인재원 리더십/글로벌 인재육성 부장\n• EON 경영컨설팅 리더십개발 부장\n• LG인화원 임원교육 차장\n• Florida State Univ. 교육공학 석/박사' -> 'LG Display HRD 임원 (임원육성체계 수립)\nCJ인재원 리더십/글로벌 인재육성 부장\nEON 경영컨설팅 리더십개발 부장\nLG인화원 임원교육 차장\nFlorida State Univ. 교육공학 석/박사'
+  diagnosticTools: '•Leadership Circle \n•Hogan\n•LG리더성향검사, 리더십평가, LG Way 서베이' -> 'Leadership Circle \nHogan\nLG리더성향검사\nLG Way 서베이'
+  certDomesticOther: '•DDI Certified Facilitator, Development Dimensions International\n•DDI PPC (Pressure Point Coaching), Development Dimensions International\n•Human Resource Development Certification, Florida State University' -> 'DDI Certified Facilitator\nDevelopment Dimensions International\nDDI PPC (Pressure Point Coaching)\nDevelopment Dimensions International\nHuman Resource Development Certification, Florida State University'
+~ [90] 신해진
+  background: '• 아모레퍼시픽 그룹 인재원장, CLO, 상무\n• 광주요 그룹 CCO, 부사장\n• 현대제철 인재개발팀 팀장\n• CJ제일제당, 지주사 인재개발 팀장\n• SAP코리아 (SW 개발 공급)-Success Factors Delivery 총괄' -> '아모레퍼시픽 그룹 인재원장, CLO, 상무\n광주요 그룹 CCO, 부사장\n현대제철 인재개발팀 팀장\nCJ제일제당, 지주사 인재개발 팀장\nSAP코리아 (SW 개발 공급)-Success Factors Delivery 총괄'
+  diagnosticTools: '•Clifton StrengthsFinder\n•Leadership Circle \n•Harrison\n•KornFerry\n•Hogan' -> 'Clifton StrengthsFinder\nLeadership Circle \nHarrison\nKornFerry\nHogan'
+  certDomesticOther: '•KornFerry Leadership Architect \n•KornFerry Interviewing Architect' -> 'KornFerry Leadership Architect \nKornFerry Interviewing Architect'
+~ [91] 박민희
+  background: '• 현)한스코칭파트너코치\n• 전)피에스앤마케팅 Lead코치 ,인재육성팀장\n• 저)SkTelecom리더십OD팀 연구원 \n• geMedical Systems Korea 트레이닝 매니져 \n• 삼성전자글로벌마케팅연구소마케팅영업교육 연구원' -> '현)한스코칭파트너코치\n전)피에스앤마케팅 Lead코치 ,인재육성팀장\n저)SkTelecom리더십OD팀 연구원 \ngeMedical Systems Korea 트레이닝 매니져 \n삼성전자글로벌마케팅연구소마케팅영업교육 연구원'
+  diagnosticTools: '•Leadership Circle \n•Hogan\n•MBTI, Birkman, Disc\n•Clifton StrengthsFinder' -> 'Leadership Circle \nHogan\nMBTI\nBirkman\nDisc\nClifton StrengthsFinder'
+~ [92] 변형균
+  background: '• (현) 퓨처웨이브 대표, 미래경영 전문가\n• (현) 차의과대학교 AI헬스케어융합학과 겸임교수\n• (현) 하트스마일(HST: Heartsmile) 명상지도자\n• (현) 한국상품학회 부회장\n• (전) BC카드 AI빅데이터본부장, 데이터사업본부장\n• (전) KT 데이터거버넌스, 빅데이터 기획, 데이터트랜스포메이션, AI 서비스, \n         디지털&바이오헬스 사업 총괄 상무\n (전) MIT Technology Korea 편집위원, WEF(World Economic Forum) AI위원' -> '(현) 퓨처웨이브 대표, 미래경영 전문가\n(현) 차의과대학교 AI헬스케어융합학과 겸임교수\n(현) 하트스마일(HST: Heartsmile) 명상지도자\n(현) 한국상품학회 부회장\n(전) BC카드 AI빅데이터본부장, 데이터사업본부장\n(전) KT 데이터거버넌스, 빅데이터 기획, 데이터트랜스포메이션, AI 서비스, \n         디지털&바이오헬스 사업 총괄 상무\n (전) MIT Technology Korea 편집위원, WEF(World Economic Forum) AI위원'
+  diagnosticTools: '•Leadership Circle' -> 'Leadership Circle'

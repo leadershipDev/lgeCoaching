@@ -1,0 +1,26 @@
+[build]
+  publish = "."
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "SAMEORIGIN"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+
+[[headers]]
+  for = "/*.pdf"
+  [headers.values]
+    Content-Disposition = "inline"
+    Content-Type = "application/pdf"
+
+[[redirects]]
+  from = "/*.pdf"
+  to = "/:splat"
+  status = 200
+  force = false
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

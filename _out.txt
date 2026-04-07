@@ -1,0 +1,9 @@
+총 81명
+  CiT: 20명
+  개별: 14명
+  코칭경영원: 35명
+  한스코칭: 12명
+
+가격 샘플 (정은실): [{'category': '사전/사후진단', 'type': '전화인터뷰', 'amount': 70000}, {'category': '실/팀장', 'type': '면대면 개별(1:1)', 'amount': 500000}]
+
+data.js 생성 완료: D:\project\CoachingLanding\data.js
