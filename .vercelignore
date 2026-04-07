@@ -17,7 +17,7 @@ _*.json
 # PDF 문서
 *.pdf
 
-# 개별 디렉토리 (민감한 정보 포함 가능)
+# 개별 디렉토리
 lgeCoaching/
 cit/
 cobiz/
@@ -25,23 +25,3 @@ hans/
 indi/
 pic/
 senior/
-
-# 시스템 파일
-.DS_Store
-Thumbs.db
-desktop.ini
-
-# IDE/에디터
-.vscode/
-.idea/
-*.swp
-*.swo
-*~
-.claude/settings.local.json
-
-# Node.js
-node_modules/
-npm-debug.log
-yarn-error.log
-package-lock.json
-.vercel
